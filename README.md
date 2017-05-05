@@ -1,4 +1,4 @@
-# TransformPinYin
+# [TransformPinYin](http://www.jianshu.com/p/c03402203ae7)
 使用CFStringTransform汉字转拼音
 
 ##示范代码：
